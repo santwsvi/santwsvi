@@ -2,7 +2,7 @@
 <code>System.out.println("Welcome to my github!😆")</code>
 <hr>
 
-<p>👨‍💻 Intern Software Developer <a href="https://inter.co/" target="blank_">Inter</a></p>
+<p>👨‍💻 Intern Software Developer at <a href="https://inter.co/" target="blank_">Inter</a></p>
 <p>🎓 Graduating in Software Engineering at <a href="https://pucminas.br" target="blank_">PUC Minas</a></p>
 <p>📚 Studying Cloud Solutions and Event-Driven Architecture</p>
 
