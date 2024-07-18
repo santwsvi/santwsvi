@@ -8,7 +8,7 @@
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,kafka,aws,mysql,kubernetes,dynamodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,micronaut,spring,kafka,aws,mysql,kubernetes,dynamodb)](https://skillicons.dev)
 
 Here you'll find some projects focused in the following technologies:
 <p>-Java</p> 
