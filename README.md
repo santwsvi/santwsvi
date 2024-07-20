@@ -1,5 +1,4 @@
 
-<code>System.out.println("Welcome to my github!😆")</code>
 <hr>
 
 <p>👨‍💻 Intern Software Developer at <a href="https://inter.co/" target="blank_">Inter</a></p>
