@@ -16,7 +16,7 @@ Here you'll find some projects focused in the following technologies:
 <p>-Spring Cloud (Config Server, Discovery, API Gateway, OpenFeign)</p>
 <p>-Server-Sent Events (SSE)</p>
 <p>-WebSockets</p>
-<p>-Relational and Non-Relational DB's(Postgres, Oracle, AWS DynamoDB)</p>
+<p>-Relational and Non-Relational DB's(Postgres / AWS DynamoDB)</p>
 <p>-AWS EC2</p>
 <p>-AWS S3</p>
 <p>-AWS EKS</p>
