@@ -7,11 +7,11 @@
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=java,micronaut,spring,kafka,aws,mysql,kubernetes,dynamodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,kafka,aws,)](https://skillicons.dev)
 
 Here you'll find some projects focused in the following technologies:
+
 <p>-Java</p> 
-<p>-Micronaut</p>
 <p>-Spring Boot</p>
 <p>-Spring Cloud (Config Server, Discovery, API Gateway, OpenFeign)</p>
 <p>-Server-Sent Events (SSE)</p>
@@ -24,11 +24,11 @@ Here you'll find some projects focused in the following technologies:
 <p>-AWS SNS</p>
 <p>-AWS SQS</p>
 <p>-Kafka</p>
-<p>-Redis</p>
 
 <hr>
 
 And also about the following Design Patterns:
+
 <p>-Strategy</p>
 <p>-Factory</p>
 <p>-Singleton</p>
